@@ -75,5 +75,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+<img width="1920" height="1080" alt="ritesh logical diagram exp1" src="https://github.com/user-attachments/assets/3f0c6f3c-7505-4d75-92cf-e41399c79702" />
+State Diagram:
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/58963fe3-5a8a-4aed-961a-49c166b9d18f" />
+
+
 
 
